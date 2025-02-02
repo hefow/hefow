@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hefow&label=Profile%20views&color=0e75b6&style=flat" alt="hefow" /> </p>
 
 
-- 🔭 I’m currently working on **hotel booking app**
+- 🔭 I’m currently working on **inventory management system**
 
 - 🌱 I’m currently learning **Flutter**
 
