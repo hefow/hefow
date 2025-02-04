@@ -1,7 +1,12 @@
-<h1 align="center">Welcome to My GitHub Profile</h1>
+<h1 align="center" style="color: #FFFFFF; background-color: #004D40; padding: 20px; border-radius: 10px; font-family: 'Righteous', sans-serif;">
+  Hello, I'm Ahmed ibrahim hefow! 👋
+</h1>
 <h3 align="center">Passionate about software development, MERN stack, and data analysis.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hefow&label=Profile%20views&color=0e75b6&style=flat" alt="hefow" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hefow&label=Profile%20views&color=0e75b6&style=flat" alt="hefow" /> </p>
+
+<!-- Coding GIF -->
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 
 - 🔭 I’m currently working on **inventory management system**
@@ -16,6 +21,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <div align="left" style="padding-left: 10px;">
+  <a href="mailto:ahmedhefow11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/mubashir.bashir.716195" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-333333?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook" />
+  </a>
+  <a href="https://wa.me/0612947216" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=green" alt="WhatsApp" />
+  </a>
+</div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
