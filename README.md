@@ -17,7 +17,6 @@
 - 💬 Ask me about **react,tailwind,javascript,nodejs**
 
 - 📫 How to reach me **aihefow@gmail.com**
-- => My Resume **https://docs.google.com/document/d/1uK_xMMDSzGMl1BKcHnhxieY_eQKfLlou6f7RGAa34-w/edit?tab=t.0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
