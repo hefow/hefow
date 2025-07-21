@@ -8,9 +8,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-- 🔭 I’m currently working on **inventory management system**
+- 🔭 I’m currently working on **property registration system**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://hefow.vercel.app/](https://hefow.vercel.app/)
 
